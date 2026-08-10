@@ -75,6 +75,7 @@ QA-Experience-report/
 ├── Mobile-Testing/
 ├── QA-Documentation/
 └── Projects/
+```
 
 Note: Confidential client information, private test-cycle information, credentials, private URLs, and restricted screenshots/evidence will not be published. Public documentation will use anonymized information where necessary.
 
