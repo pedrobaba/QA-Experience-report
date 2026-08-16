@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** Mobile application (Browser: Safari on iPhone xsmax)  
+- **App Type:** Mobile application (Browser: Safari on iPhone xsmax)
+
+- **Issue Type:** Functional
 
 - **Description:**   FAQs - FAQ items do not expand when tapped. 
 
