@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** web application (Browser: Chrome on computer)  
+- **App Type:** web application (Browser: Chrome on computer)
+
+- **Issue Type:** Functional
 
 - **Description:**   Favorites - Changing the size of a favorited product creates a duplicate favorite item. 
 
