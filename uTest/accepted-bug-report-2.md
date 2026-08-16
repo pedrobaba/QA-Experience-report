@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** web application (Browser: Chrome on Computer)  
+- **App Type:** web application (Browser: Chrome on Computer)
+
+- **Issue Type:** Functional
 
 - **Description:**   Product Listing Page - Under $50 filter displays products over $50. 
 
