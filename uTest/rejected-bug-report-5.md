@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** web application (Browser: Chrome on Computer)  
+- **App Type:** web application (Browser: Chrome on Computer)
+
+- **Issue Type:** Functional
 
 - **Description:**   Product Details Page - Tapping the Klarna information icon opens a 403 error page. 
 
