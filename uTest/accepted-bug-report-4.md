@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** Web application (Browser: Chrome on a computer)  
+- **App Type:** Web application (Browser: Chrome on a computer)
+
+- **Issue Type:** Functional
 
 - **Description:**   Article Details - Comment section does not open after clicking the comment icon. 
 
