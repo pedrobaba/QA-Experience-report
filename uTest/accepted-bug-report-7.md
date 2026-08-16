@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** mobile application (Browser: Chrome on iPhone xsmax )  
+- **App Type:** mobile application (Browser: Chrome on iPhone xsmax )
+
+- **Issue Type:** Functional 
 
 - **Description:**   Safe Buying Tickets Page - “Click here” link opens a Page Not Found error.
 
