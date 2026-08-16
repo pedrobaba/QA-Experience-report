@@ -6,7 +6,7 @@
 | Jul 06, 2026 | #55xxxx  | Computer | Exploratory with Test Cases| 1 | 1 | 0 | Screenshot,screencast,Log | Include URL in log |
 | Jul 13, 2026 | #55xxxx | Mobile App | Exploratory | 1 | 1 | 0 | screenshot, screencast, Log | - |
 | Jul 20, 2026 | #55xxxx | Computer | Exploratory & Charles Proxy | 1 | 1 | 0 | screenshot, screencast, .chlz | - |
-| Jul 27, 2026 | #55xxxx | Computer | Exploratory with Test Cases | 1 | 2 | 0 | Screenshot, screencast, Log | - | 
+| Jul 27, 2026 | #55xxxx | Computer | Exploratory with Test Cases | 1 | 0 | 2 | Screenshot, screencast, Log | - | 
 | Aug 03, 2026 | #55xxxx | Mobile | Exploratory with Test Cases| 1 | 2 | 0 | Screenshot, Screencast, Log | - |
 | Aug 10, 2026 | #55xxxx | Computer | Exploratory with Test Cases| 1 | 1 | 0 | screenshot, screencast, Log | - |
 
