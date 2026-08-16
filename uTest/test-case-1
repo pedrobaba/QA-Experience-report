@@ -1,0 +1,32 @@
+# Bug Report
+
+- **Platform:** uTest  
+
+- **Cycle ID:** #55XXXX  
+
+- **App Type:** Mobile Application (Browser: Safari on Iphone xsmax)  
+
+- **Description:**  My Registration Details - Password not meeting the stated requirements is accepted. 
+
+- **Steps to Reproduce:**  
+  1. Open https://www.marxx.com/en-us/ 
+  2. Log in with a valid user account.
+  3. Navigate to My Account.
+  4. Tap My Registration Details.
+  5. Enter rick123 in the Password field.
+  6. Enter rick123 in the Confirm Password field.
+  7. Tap Save.  
+
+- **Expected Result:** The website should reject the password, display a validation error indicating that the password must contain at least 8 characters and one special character, and should not update the password.
+
+- **Actual Result:** The website accepts the password and updates the account without displaying any validation error, even though the password does not meet the stated requirements.  
+
+- **Severity:** Low  
+
+- **Evidence:**  
+
+  - Screenshot: https://www.image2url.com/r2/default/images/1786874853160-54072ce5-0411-469c-93ea-be903e28f068.png  
+  - Screen recording: not uploaded for privacy reasons
+
+- **Status:** Accepted (verified by customer)  
+ 
