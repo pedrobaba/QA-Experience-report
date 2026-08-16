@@ -6,7 +6,9 @@
 
 - **Cycle ID:** #55XXXX  
 
-- **App Type:** Mobile Application (Browser: Safari on Iphone xsmax)  
+- **App Type:** Mobile Application (Browser: Safari on Iphone xsmax)
+
+- **Issue Type:** Functional
 
 - **Description:**  Search - Searching for “Hull City” returns unrelated articles. 
 
