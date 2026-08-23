@@ -9,4 +9,5 @@
 | Jul 27, 2026 | #55xxxx | Computer | Exploratory with Test Cases | 1 | 0 | 2 | Screenshot, screencast, Log | - | 
 | Aug 03, 2026 | #55xxxx | Mobile | Exploratory with Test Cases| 1 | 2 | 0 | Screenshot, Screencast, Log | - |
 | Aug 10, 2026 | #55xxxx | Computer | Exploratory with Test Cases| 1 | 1 | 0 | screenshot, screencast, Log | - |
+| Aug 17, 2026 | #55xxxx | Mobile | Exploratory with Test Cases| 1 | 1 | 0 | screenshot, screencast, Log | - |
 
