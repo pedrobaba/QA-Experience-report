@@ -1,0 +1,36 @@
+# Bug Report
+
+- **Date:** Aug 17, 2026
+
+- **Platform:** uTest  
+
+- **Cycle ID:** #55XXXX  
+
+- **App Type:** Mobile Application (Browser: Safari on Iphone xsmax)
+
+- **Issue Type:** Functional
+
+- **Description:**  Map - View Deal button returns 403 Forbidden error.
+
+- **Steps to Reproduce:**  
+  1. Open the HomeToGo app
+  2. Tap the search icon and search “Croatia”
+  3. Tap the Map icon in the top-right corner of the screen
+  4. Set dates to Aug 18–23, select 1 guest, tap Apply
+  5. Tap the $1,279 pin on the map results
+  6. Tap the listing card displayed
+  7. Tap “View deal” 
+
+- **Expected Result:** User is redirected to a working booking/deal details page on the partner site (hometogo.at) to complete the reservation.
+
+- **Actual Result:** The in-app browser loads hometogo.at and returns a 403 Forbidden error instead of the deal page, preventing the user from viewing or completing the booking.  
+
+- **Severity:** High  
+
+- **Evidence:**  
+
+  - Screenshot: https://www.image2url.com/r2/default/images/1787507947788-6192e757-af15-459d-a771-037a096780e2.jpeg 
+  - Screen recording: not uploaded for privacy reasons
+
+- **Status:** Accepted (verified by customer)  
+ 
